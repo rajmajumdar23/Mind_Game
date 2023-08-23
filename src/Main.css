@@ -269,7 +269,7 @@ button:hover {
     }
 
     .App {
-        margin-top: 41%;
+        margin-top: 35%;
         margin-left: -.6%;
         max-width: 96%;
         width: auto;
@@ -309,7 +309,7 @@ button:hover {
         display: flex;
         justify-content: space-between;
         font-size: 1.5rem;
-        width: 340px;
+        width: 320px;
         margin-bottom: 20px;
         color: rgba(255, 255, 255, 0.9);
         animation: glow 2s infinite;
@@ -318,7 +318,7 @@ button:hover {
     .card-container {
         margin-left: 2%;
         grid-template-columns: repeat(4, 1fr);
-        width: 325px;
+        width: 330px;
     }
 
     .card {
