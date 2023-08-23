@@ -256,7 +256,7 @@ button:hover {
     color: #de5221;
 }
 
-@media (max-width: 768px) {
+@media (max-width:480px) {
     .video-background {
         position: absolute;
         top: -168px;
