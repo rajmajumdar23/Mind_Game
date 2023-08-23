@@ -318,7 +318,7 @@ button:hover {
     .card-container {
         margin-left: 2%;
         grid-template-columns: repeat(4, 1fr);
-        width: 348px;
+        width: 336px;
     }
 
     .card {
