@@ -340,8 +340,8 @@ button:hover {
     .modal-content {
         max-width: 91.8%;
         padding: 16px;
-        margin-left: -29.9%;
-        margin-top: -13%;
+        margin-left: -27%;
+        margin-top: -3%;
     }
 
     @keyframes glow {
