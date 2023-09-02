@@ -284,7 +284,7 @@ button:hover {
   
     .level-buttons {
             width: 373px;
-            margin-left: 1%;
+            margin-left: -1%;
         }
        
 
@@ -367,7 +367,7 @@ button:hover {
 
 
     .scoreboard {
-    margin-left: 11%;
+    margin-left: 9%;
     font-size: 1.2rem;
     }
 }
