@@ -283,7 +283,7 @@ button:hover {
     }
   
     .level-buttons {
-    margin-left: -9%;
+    margin-left: -5%;
     width: 373px;
         }
        
@@ -316,7 +316,7 @@ button:hover {
     }
 
     .card-container {
-        margin-left: 3.2%;
+        margin-left: 6.2%;
         grid-template-columns: repeat(4, 1fr);
         width: 330px;
     }
@@ -368,6 +368,6 @@ button:hover {
 
     .scoreboard {
     font-size: 1.2rem;
-    margin-left: 6%;
+    margin-left: 7%;
     }
 }
